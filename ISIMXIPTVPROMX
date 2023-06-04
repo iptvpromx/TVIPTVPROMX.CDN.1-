@@ -237,7 +237,7 @@ https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 #EXTVLCOPT:http-referrer=https://bgtv.sitio:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Firefox
-#EXTINF:-1 tvg-id="131" tvg-="https://yt3.googleusercontent.com/ytc/AGIKgqMgWXka94yoqQntfIb9Qf_EGTuM5jpaburnGpcr=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL",CV SHOPPING OUTLET
+#EXTINF:-1 tvg-id="131" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMgWXka94yoqQntfIb9Qf_EGTuM5jpaburnGpcr=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL",CV SHOPPING OUTLET
 https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
