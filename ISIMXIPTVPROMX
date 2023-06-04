@@ -137,7 +137,7 @@ https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f07913
 
 
 #EXTINF: -1 tvg-chno="114" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="TV NACIONAL", CANAL 14
-https://cdn3.wowza.com/1/T1lvY282a3M5ZUxz/WWRRbVdF/hls/live/playlist.m3u8
+https://s6.mexside.net:1936/canal14/canal14/chunklist_w1853257945.m3u8
 
 #EXTINF: -1 tvg-chno="116" tvg-logo="https://www.megacable.com.mx/images/canales/115_mvstv.png" group-title="TV NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
