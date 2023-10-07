@@ -1740,6 +1740,18 @@ https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #EXTINF: -1 tvg-chno="372" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMKQB8hn6HfzIFy37sQ534U0U2BcRxqYm3EPh8m=s900-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS", FRANCE 24
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=qaqaqaqa
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png" group-title="TV NACIONAL",CNBC
+https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
 🌍INTERNACIONAL✈️
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2675,153 +2687,9 @@ https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
 #EXTINF: -1 tvg-chno="826" tvg-logo="https://yt3.googleusercontent.com/bC9HC5Esmlp6_k0ZqrVyj-wNek5qnMYx-XX0RlWDYSwuS8bA70Evtfg79EA_C6uVTB4JlPW7=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", WILD EARTH
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
-#EXTINF: -1 tvg-chno="827" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/NatureTime_Samsung_1000x1000_circle.png" group-title="NATURALEZA", NATURE TIME
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturetimeemea-samsungspain/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="828" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_258-200x180.png" group-title="NATURALEZA", LOVE NATURE
-https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/amg00090-blueantllc-naturetimeemea-samsungspain/cb563d197c6c678a9dd43767cef862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec58ae6852db80148b6f4adafb8c2360625f5c98435ee3b24aa6fbb755148964f7ac1c48c72a58e683179cc94de9d2dd469d45877ea2419992a38fd510e03ea059886f1da79a39581fb4b83bf5e458aed399664be41b4a683f252b270e9c3451a8485148f0bfeab260ed1acd885fee08c818b6f93dec068f79ab0ab5f454e2d9d323e1f758d6a76d4415da8d968fe93430af73e1e88eb71625c8ae4420158005ac5302c570bb6942d7e36cbd3c47d1c50725988ae2649698a08aecb1c267993dc3c4fba71e4b5a7a3ecfe737adb762c120d174a981466f0c0d0c9a935bc089ce4d704c7bc6d10e9a4340f9ec828d895a608a784d0ea120f84b1560c903697ece24edd5693fde6859d37575d07001ad6eb0f820fcacdea5213eb6d5c80bbf4ce7a705dff34df83c6f1752fda2620f057f7cd6ef74047f2c9012aa809c9302636adbfec3facf442b476847206ba5d6a721cbc090535e7ca774296f731c12ec74f561cd0f44056e845ee4a507708a11326f81833a4e517899d8bbe2d6869c364f8f428d44598743b11a8935169867/106/subs-english-eng/subtitle.m3u8
-
 #EXTINF: -1 tvg-chno="829" tvg-logo="https://image.roku.com/developer_channels/prod/c155308e39695c107020d7412ad9da46d4dd5f0e603c1d44a0c0c15a71d4061c.png" group-title="NATURALEZA", DEMAND AFRICA
 https://demandafrica-oando.amagi.tv/playlistR1080p.m3u8
 
-
-📺VIX🎞️
-
-#EXTINF: -1 tvg-chno="830" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSvjhPoE_2ijB46mwY53cZYY5J5fjWMYfng&usqp=CAU" group-title="VIX", POKER GO
-https://linear-426.frequency.stream/426/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/62384bea25f03fcfb8df33d4/76778b6236e45fe26a0255ed2d90a9b8?tr=q-80&w=1080", SIEMPRE ADOLESCENTES
-https://linear-487.frequency.stream/487/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/623db586afc9762a1eac0949/b5ab16a619ae1968b2b86f6e2c2628ae?tr=q-80&w=1080", PURO AMOR
-https://linear-484.frequency.stream/484/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/624266700d4c3d1bf91acc71/1d95ddf4e7fa7beddba1baf26c46e55b?tr=q-80&w=1080", MIEMBROS AL AIRE
-https://linear-483.frequency.stream/483/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/6235c8a571d7630ed80b70e0/1715c577eea117b032c76a48aeee6f89?tr=q-80&w=1080", MI CORAZÓN ES TUYO
-https://linear-482.frequency.stream/482/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="835" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 1
-https://linear-481.frequency.stream/481/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="736" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 2
-https://linear-480.frequency.stream/480/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="737" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 3
-https://linear-479.frequency.stream/479/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="738" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 4
-https://linear-478.frequency.stream/478/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="739" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 5
-https://linear-468.frequency.stream/468/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/6235cadd0b340c1e57510092/830313c05f63359c94d066194e1035c5?tr=q-80&w=1024", NOSOTROS LOS GUAPOS
-https://linear-451.frequency.stream/451/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=1080", UNA FAMILIA DE 10
-https://linear-450.frequency.stream/450/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="742" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 6
-https://linear-448.frequency.stream/448/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="743" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 7
-https://linear-447.frequency.stream/447/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU", EVENTOS DE VIX
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="745" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/800px-The_Weather_Channel_logo_2005-present.svg .png" group-title="VIX", THE WHEATHER CHANNEL
-https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="698" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHa_tu22CZ4paaS8ZWXxLlzC6WxId9oPRJhA&usqp=CAU" group-title="VIX", VIX 8
-https://linear-429.frequency.stream/429/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="VIX" tvg-logo="https://images.vix.com/prd/channel/6243691b46504feea6e98b31/266b4b48327b68bf53f39786805511f1?tr=q-80&w=1024", BABY SHARK
-https://linear-355.frequency.stream/355/hls/master/playlist.m3u8
-
-#EXTINF: -1 tvg-chno="848" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8VrP7Ap0yRdqFqeOoYe4JynOPqEOKaY2BZw&usqp=CAU" group-title="VIX", N+
-https://linear-301.frequency.stream/301/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/768px-Series_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS SERIES
-http://ac.ntvlatino.com:8080/moises21/moises22/6027
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Comedia_por_Movistar_Plus%2B_2022_logo.svg/800px-Comedia_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS COMEDIA
-http://ac.ntvlatino.com:8080/moises21/moises22/1156026
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/250px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS ACCIÓN 
-http://ac.ntvlatino.com:8080/moises21/moises22/1156027
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS CINE Ñ
-http://ac.ntvlatino.com:8080/moises21/moises22/6026
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/640px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS ESTRENOS
-http://ac.ntvlatino.com:8080/moises21/moises22/1156025
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/768px-Series_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS SERIES OPC 2
-http://ac.ntvlatino.com:8080/moises21/moises22/1156025
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/640px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS #VAMOS
-http://ac.ntvlatino.com:8080/moises21/moises22/51453
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/640px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS LIGA DE CAMPEONES
-http://ac.ntvlatino.com:8080/moises21/moises22/1156049
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS LA LIGA
-http://ac.ntvlatino.com:8080/moises21/moises22/1115758
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1200px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS DEPORTES
-http://ac.ntvlatino.com:8080/moises21/moises22/1090600
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLigaTV_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS LA LIGA TV OPC 2
-http://ac.ntvlatino.com:8080/moises21/moises22/51343
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Golf_por_Movistar_Plus%2B_2022_logo.svg/640px-Golf_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS GOLF
-http://ac.ntvlatino.com:8080/moises21/moises22/1156052
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/250px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS ACCIÓN OPC 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/501
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS CLASICOS
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115835
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1200px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS DRAMA
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48655
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS ESTRENOS 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48652
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/640px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS ESTRENOS OPC 2
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48651
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/640px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS FEST
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/115839
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://yt3.googleusercontent.com/JicbSWFQ0kigXVGBac1VUSJyxvau4slxtEKOfWarF0n_q4dzcqOq5aGT8X3DbS5IbDF6KPyh_A=s900-c-k-c0x00ffffff-no-rj", MOVISTAR PLUS LA RESISTENCIA
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/104696
-
-#EXTINF:-1 group-title="MOVISTAR PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/1200px-0_por_Movistar_Plus%2B_2022_logo.svg.png", MOVISTAR PLUS #0
-http://ac.ntvlatino.com:8080/moises21/moises22/1156036
-
-ESPAÑA
-
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://images.tuamc.tv/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/e02b5625ade88c5fec1e64dd86228352_LOGO-PANDA-Enfamilia_Panda-Enfamilia-Color.png", EN FAMILIA
-http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/80642
-
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png", NAT GEO WILD 
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48759
-
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/640px-DMax_Espa%C3%B1a.svg.png", DMAX
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/93291
-
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/s/u/n/sundancetv.jpg", SUNDANCE TV
-http://xplatinmedia.com:8080/Silentrix/7loz0Z6YarrFi0nwOC9AA4018/48794
-
-PERU❤️
-
-#EXTINF: -1 tvg-chno="850" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/1200px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="PERU", TV PERU
-https://d3rohd087xr33u.cloudfront.net/out/v1/ffafd62d591241af9ae8fcb5096e84de/index_1.m3u8
 
 ARGENTINA⚽
 
@@ -2829,9 +2697,6 @@ ARGENTINA⚽
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1171844143.m3u8
 
 😂ANIME🥰
-
-#EXTINF:-1 group-title="ANIME" tvg-logo="https://logovtor.com/wp-content/uploads/2021/04/locomotion-uk-logo-vector.png", LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.uc.assets.prezly.com/d912952e-742b-4e87-a382-90a935842806/" group-title="ANIME",  ANIME ONEGAI
 https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe0743fa.sdp/playlist.m3u8
