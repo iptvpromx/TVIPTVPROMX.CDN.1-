@@ -2035,14 +2035,25 @@ https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF: -1 tvg-chno="742" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="MUSICA", EXA TV
-https://bit.ly/cdn_1_exatvizzipromx
+https://bit.ly/3RPTo8V
 
 #EXTINF: -1 tvg-chno="748" tvg-logo="https://www.megacable.com.mx/images/canales/704_video-rola.png" group-title="MUSICA", VIDEO ROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_5.m3u8
+https://bit.ly/IptvpromxVideorola_cdn1_mx
+
+#EXTINF: -1 tvg-chno="742" tvg-logo="https://www.megacable.com.mx/images/canales/1296_vr-plus-hd.png" group-title="MUSICA", VIDEOROLA +
+https://bit.ly/IptvpromxVideorolamas_cdn1_mx
+
+#EXTINF: -1 tvg-chno="748" tvg-logo="https://www.megacable.com.mx/images/canales/1288_beat-box.png" group-title="MUSICA", BEAT BOX
+https://bit.ly/IptvpromxBeatbox_cdn1_mx
+
+#EXTINF: -1 tvg-chno="748" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/266.png" group-title="MUSICA", LA MEJOR 
+https://bit.ly/48Ldkju
+
+#EXTINF: -1 tvg-chno="748" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/640px-Htv_logo.svg.png" group-title="MUSICA", H TV
+https://bit.ly/Iptvpromxhtv_channel_1_cdn_mx
 
 #EXTINF: -1 tvg-chno="749" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/0523_sn_website_launch_meta-image_1200x628_v01.png?itok=ab0Ae-hA" group-title="MUSICA", STINGRAY NATURESCAPE
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1920x1080_5711200/index.m3u8
-
 
 🎵STINGRAY MUSIC🎵
 
