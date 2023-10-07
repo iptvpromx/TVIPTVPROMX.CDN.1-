@@ -2,7 +2,7 @@
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=234523
+#KODIPROP:inputstream.adaptive.license_key=https://www.izzigo.tv/webclient/service-worker.js
 #EXTVLCOPT:http-referrer=https://bgtv.sitio:
 #EXTVLCOPT:caché de rojo=1000
 #EXTVLCOPT:http-usuario-agente=Firefox
