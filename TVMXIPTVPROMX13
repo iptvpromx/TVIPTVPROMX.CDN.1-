@@ -133,11 +133,11 @@ https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF: -1 tvg-chno="113" tvg-logo="https://yt3.googleusercontent.com/fbfucsMR5LKdOiqcYmKNA5IjCDMvFZcwhtTcDd0UDtP8FyUie9DXWPbwGN5RLic8qemRUD2l=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL", CANAL 13 VERACRUZ
-https://c13mx.mediatiquestream.com/canal13tabasco/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 
 
 #EXTINF: -1 tvg-chno="114" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="TV NACIONAL", CANAL 14
-https://s6.mexside.net:1936/canal14/canal14/chunklist_w1853257945.m3u8
+https://cdn.mycloudstream.io/hls/live/broadcast/uqgv4lg6/index.m3u8
 
 #EXTINF: -1 tvg-chno="116" tvg-logo="https://www.megacable.com.mx/images/canales/115_mvstv.png" group-title="TV NACIONAL", MVS TV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
