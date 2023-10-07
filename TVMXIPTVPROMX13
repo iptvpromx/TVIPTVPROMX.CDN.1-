@@ -1549,6 +1549,19 @@ http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=qaqaqaqa
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="101" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLc3lof7LJbulM5TVkJuXEXlzy6N6wBn-pVA&usqp=CAU" group-title="TV NACIONAL",FOX SPORTS PREMIUM 
+https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=qaqaqaqa
@@ -1598,27 +1611,6 @@ https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 
 #EXTINF: -1 tvg-chno="527" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png" group-title="DEPORTES", TVC DEPORTES
 http://rasb.us:8880/alfonso/cambio/347
-
-#EXTINF: -1 tvg-chno="528" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/WinSports2022.png" group-title="DEPORTES", WIN SPORTS
-http://elmonkey.us:25461/Victor/Victor/267
-
-#EXTINF: -1 tvg-chno="529" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="DEPORTES", DIRECT TV SPORTS
-http://elmonkey.us:25461/Victor/Victor/350
-
-
-⚽DEPORTES PREMIUM🏈
-
-#EXTINF: -1 tvg-chno="530" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES PREMIUM", MLB 
-https://bit.ly/cdn_2_mlbizzipromx
-
-#EXTINF: -1 tvg-chno="531" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" group-title="DEPORTES PREMIUM", MLB 2
-http://elmonkey.us:25461/Victor/Victor/1409
-
-#EXTINF: -1 tvg-chno="532" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="DEPORTES PREMIUM", FOX SPORTS PREMIUM
-http://elmonkey.us:25461/Victor/Victor/117045
-
-#EXTINF: -1 tvg-chno="533" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="DEPORTES PREMIUM", NBA TV
-http://elmonkey.us:25461/Victor/Victor/1418
 
 
 📰NOTICIAS📡📺
