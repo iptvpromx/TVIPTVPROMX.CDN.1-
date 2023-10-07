@@ -556,8 +556,6 @@ https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF: -1 tvg-chno="273" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425223-8c.png" group-title="ENTRETENIMIENTO", GLITZ
-https://bit.ly/cdn_1glitzizzipromx
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -565,8 +563,8 @@ https://bit.ly/cdn_1glitzizzipromx
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="274" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416581-8c.png" group-title="ENTRETENIMIENTO",TBS SD
-http://live3-ott.izzigo.tv/out/u/dash/TBS-SD/default.mpd
+#EXTINF:-1 tvg-id="274" tvg-logo="https://www.megacable.com.mx/images/canales/340_glitz.png" group-title="ENTRETENIMIENTO",GLITZ
+http://live4-ott.izzigo.tv/out/u/dash/GLITZ-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -759,8 +757,6 @@ https://live2-ott.izzigo.tv/out/u/dash/CLAN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF: -1 tvg-chno="335" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1219px-ZooMoo_logo.svg.png" group-title="NIÑOS", ZOO MOO
-http://190.61.102.67:8000/play/a009
 
 MUNDO Y CULTURA 🌍
 
@@ -950,9 +946,6 @@ http://live2-ott.izzigo.tv/out/u/dash/CURIOSITY-HD/default.mpd
 https://live4-ott.izzigo.tv/out/u/dash/DOGTV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
-#EXTINF: -1 tvg-chno="371" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="MUNDO Y CULTURA", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF: -1 tvg-chno="372" tvg-logo="https://image.roku.com/developer_channels/prod/2183337cdcab5889914bf7d1c79a8d920c557fbee66710a9222f8c73f2159581.png" group-title="MUNDO Y CULTURA", PRESUMIENDO MEXICO
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w544166504_b1428000_sleng.m3u8
@@ -1331,8 +1324,6 @@ http://live4-ott.izzigo.tv/out/u/dash/SONY-MOVIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF: -1 tvg-chno="487" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416643-8c.png" group-title="PELICULAS", MORBIDO TV
-https://bit.ly/cdn_1_morbidoizzipromx
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2043,8 +2034,16 @@ https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF: -1 tvg-chno="737" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA", TELERITMO
-https://bit.ly/cdn_1_teleritmoizzipromx
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=qaqaqaqa
+#EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
+#EXTVLCOPT:network-caching= 1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA",TELERITMO
+http://live1-ott.izzigo.tv/out/u/dash/TELERITMO-HD/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
