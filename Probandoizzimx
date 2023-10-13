@@ -1,6 +1,6 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sentry.repl.it/api/10/security/?sentry_key=615192fd532445bfbbbe966cd7131791
+#KODIPROP:inputstream.adaptive.license_key=https://sentry.repl.it/api/10/security/?sentry_key=
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
