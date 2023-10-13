@@ -1462,19 +1462,22 @@ https://bit.ly/Iptvpromxmc_channel_1_cdn_mx
 #EXTINF: -1 tvg-chno="499" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/382.png" group-title="PELICULAS", CINE LATINO
 https://bit.ly/iptvpromxcinelatino
 
-#EXTINF: -1 tvg-chno="499" tvg-logo="https://www.megacable.com.mx/images/canales/1492_cmc_imagen_1634665407.png" group-title="PELICULAS", CINE MEXICANO
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1492_cmc_imagen_1634665407.png", CINE MEXICANO
 https://bit.ly/IptvpromxCinemex_cdn1_mx
 
 
-#EXTINF: -1 tvg-chno="499" tvg-logo="https://www.megacable.com.mx/images/canales/1299_panico-hd.png" group-title="PELICULAS", PANICO
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1299_panico-hd.png", PANICO
 https://bit.ly/Iptvpromxpanico_cdn1_mx
 
-#EXTINF: -1 tvg-chno="499" tvg-logo="https://www.megacable.com.mx/images/canales/1434_cinema-platino-hd.png" group-title="PELICULAS", CINEMA PLATINO
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1434_cinema-platino-hd.png", CINEMA PLATINO
 https://bit.ly/IptvpromxCinemaplatino_cdn1_mx
 
 
-#EXTINF: -1 tvg-chno="499" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png" group-title="PELICULAS", CINEMA PLATINO 2
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/508_cinema-platino-2.png", CINEMA PLATINO 2
 https://bit.ly/IptvpromxCinemaplat_cdn1_mx
+
 
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DHE
 https://bit.ly/Iptvpromxdhe_channel1_mx
@@ -1675,7 +1678,7 @@ https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 https://bit.ly/Iptvpromxtvcdep_cdn1_mx
 
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png", DISCOVERY KIDS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.megacable.com.mx/images/canales/673_tvc-deportes.png", TVC DEPORTES 2
 https://bit.ly/IptvpromxTvcdep2_cdn1_mx
 
 
@@ -1840,7 +1843,7 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF: -1 tvg-chno="499" tvg-logo="https://www.megacable.com.mx/images/canales/1560_meganoticias-mx-hd_imagen_1638377401.png" group-title="PELICULAS", MEGANOTICIAS MX
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://www.megacable.com.mx/images/canales/1560_meganoticias-mx-hd_imagen_1638377401.png", MEGANOTICIAS MX
 https://bit.ly/IptvpromxMeganoticiasmx_cdn1_mx
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CANAL 4 GUADALAJARA
