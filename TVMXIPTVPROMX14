@@ -657,6 +657,10 @@ https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF: -1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png" group-title="ENTRETENIMIENTO", MUNDO
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CINEMA
+http://177.53.153.21:8001/play/a03h/index.m3u8
+
+
 NIÑOS🧒
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1452,15 +1456,22 @@ http://live3-ott.izzigo.tv/out/u/dash/I-SAT-SD/default.mpd
 http://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
- 
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CLARO CINEMA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROCINEMA)/index.m3u8
+
+#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CANAL CLARO
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANALCLAROHD)/index.m3u8
+
+
 #EXTINF: -1 tvg-chno="495" tvg-logo="https://www.megacable.com.mx/images/canales/461_multipremier.png" group-title="PELICULAS", MULTIPREMIER
-https://bit.ly/Iptvpromxmultipremier_channel1_mx
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MULTIPREMIER)/index.m3u8
 
 #EXTINF: -1 tvg-chno="499" tvg-logo="https://www.megacable.com.mx/images/canales/458_multicinema.png" group-title="PELICULAS", MC
 https://bit.ly/Iptvpromxmc_channel_1_cdn_mx
 
 #EXTINF: -1 tvg-chno="499" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/382.png" group-title="PELICULAS", CINE LATINO
-https://bit.ly/iptvpromxcinelatino
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CINELATINO)/index.m3u8
 
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://www.megacable.com.mx/images/canales/1492_cmc_imagen_1634665407.png", CINE MEXICANO
 https://dxmwlv9y37d4r.cloudfront.net/CINEMEXICANO/master.m3u8
@@ -1480,7 +1491,7 @@ https://dxmwlv9y37d4r.cloudfront.net/PLATINO2/master.m3u8
 
 
 #EXTINF:-1 group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DHE
-https://bit.ly/Iptvpromxdhe_channel1_mx
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
 
 
 ⚽DEPORTES⚽
@@ -1582,6 +1593,10 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", ESPN4
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1696,8 +1711,12 @@ https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 group-title="NIÑOS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", TRAVELXP
+http://177.53.153.21:8001/play/a02m/index.m3u8
+
 
 
 📰NOTICIAS📡📺
@@ -1851,6 +1870,9 @@ https://bit.ly/Iptvpromx4_channel1_mx
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CANAL 8 MONTERREY 
 https://bit.ly/Iptvpromx8_channel1_mx
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CDN
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CDNHD)/index.m3u8
 
 
 🌍INTERNACIONAL✈️
@@ -2140,7 +2162,14 @@ https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 #EXTINF: -1 tvg-chno="742" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="MUSICA", EXA TV
-https://bit.ly/3RPTo8V
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CONCERT CHANNEL
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CONCERTCHANNELHD)/index.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CLARO MUSICA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+
 
 #EXTINF: -1 tvg-chno="748" tvg-logo="https://www.megacable.com.mx/images/canales/704_video-rola.png" group-title="MUSICA", VIDEO ROLA
 https://dxmwlv9y37d4r.cloudfront.net/VIDEOROLA_HD/master.m3u8
@@ -2155,7 +2184,7 @@ https://dxmwlv9y37d4r.cloudfront.net/BEATBOX/master.m3u8
 https://bit.ly/48Ldkju
 
 #EXTINF: -1 tvg-chno="748" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/640px-Htv_logo.svg.png" group-title="MUSICA", H TV
-https://bit.ly/Iptvpromxhtv_channel_1_cdn_mx
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
 
 #EXTINF: -1 tvg-chno="749" tvg-logo="https://www.stingray.com/sites/www.stingray.com/files/styles/large/public/0523_sn_website_launch_meta-image_1200x628_v01.png?itok=ab0Ae-hA" group-title="MUSICA", STINGRAY NATURESCAPE
 https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/1920x1080_5711200/index.m3u8
@@ -2810,3 +2839,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 
 #EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", JENNY EN VIVO
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+
+#EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", PLAYBOY TV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
+
+#EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", VENUS
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
