@@ -228,7 +228,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="126" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",VIBE TV
+#EXTINF:-1 tvg-chno="127" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",VIBE TV
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/VIBE-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -240,7 +240,7 @@ https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/VIBE-TV-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="127" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ06N3T_QpADD2INwlyHtlOrPr6TGZ6FkdYEg&usqp=CAU" group-title="TV NACIONAL",AMX NOTICIAS
+#EXTINF:-1 tvg-chno="128" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ06N3T_QpADD2INwlyHtlOrPr6TGZ6FkdYEg&usqp=CAU" group-title="TV NACIONAL",AMX NOTICIAS
 http://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -251,7 +251,7 @@ http://live5-ott.izzigo.tv/out/u/dash/AMX-NOTICIAS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="128" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Gj8JbS8RaZ1QYnUc_GwqRoDO6WpMGgWiJQ&usqp=CAU" group-title="TV NACIONAL",EXCELSIOR TV
+#EXTINF:-1 tvg-chno="129" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Gj8JbS8RaZ1QYnUc_GwqRoDO6WpMGgWiJQ&usqp=CAU" group-title="TV NACIONAL",EXCELSIOR TV
 http://live1-ott.izzigo.tv/out/u/dash/EXCELSIOR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1685,7 +1685,7 @@ https://bit.ly/3LOW2YE
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="585" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
+#EXTINF:-1 tvg-chno="585" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
 https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
