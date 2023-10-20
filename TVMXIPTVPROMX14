@@ -2734,34 +2734,34 @@ https://live1-ott.izzigo.tv/out/u/dash/MUSIC-ANOS-70/default.mpd
 🎵MUSICA 2🎵
 
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO
+#EXTINF:-1 tvg-chno="810" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485159-8c.png", STINGRAY ROCK CLÁSICO
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png", STINGRAY FLASHBACK 70S
+#EXTINF:-1 tvg-chno="811" group-title="MUSICA 2.0" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/485193-8c.png", STINGRAY FLASHBACK 70S
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", GRANDES ÉXITOS DE STINGRAY
+#EXTINF:-1 tvg-chno="812" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", GRANDES ÉXITOS DE STINGRAY
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", LISTA DE ÉXITOS DE STINGRAY
+#EXTINF:-1 tvg-chno="813" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", LISTA DE ÉXITOS DE STINGRAY
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY PAÍS CALIENTE
+#EXTINF:-1 tvg-chno="814" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY PAÍS CALIENTE
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP ADULTO
+#EXTINF:-1 tvg-chno="815" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP ADULTO
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", ALTERNATIVA STINGRAY ROCK
+#EXTINF:-1 tvg-chno="816" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", ALTERNATIVA STINGRAY ROCK
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP LATINO
+#EXTINF:-1 tvg-chno="817" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY POP LATINO
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", RITMO URBANO DE STINGRAY
+#EXTINF:-1 tvg-chno="818" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", RITMO URBANO DE STINGRAY
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8
 
-#EXTINF:-1 group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY TODO LOS 80S
+#EXTINF:-1 tvg-chno="819" group-title="MUSICA 2.0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/2560px-Stingray_Music_logo.svg.png", STINGRAY TODO LOS 80S
 https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8
 
 
@@ -2769,34 +2769,34 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 📻RADIO📻
 
 
-#EXTINF: -1 tvg-chno="819" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png" group-title="RADIO", RADIO OMEGA
+#EXTINF: -1 tvg-chno="825" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/vjx2vy3jvs9e.png" group-title="RADIO", RADIO OMEGA
 http://station.radionanet.com:6156/
 
-#EXTINF: -1 tvg-chno="820" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" group-title="RADIO", RADIO DISNEY
+#EXTINF: -1 tvg-chno="826" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Radio-Disney.png" group-title="RADIO", RADIO DISNEY
 https://22823.live.streamtheworld.com/XHFOFMAAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="821" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988" group-title="RADIO", AMOR FM CDMX
+#EXTINF: -1 tvg-chno="827" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce06169803f27603c24988" group-title="RADIO", AMOR FM CDMX
 https://13743.live.streamtheworld.com/XHSHFMAAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="822" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa" group-title="RADIO", MATCH FM CDMX
+#EXTINF: -1 tvg-chno="828" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa" group-title="RADIO", MATCH FM CDMX
 https://23103.live.streamtheworld.com/XHPOPFMAAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="823" tvg-logo="https://i.iheart.com/v3/re/new_assets/6230ca02be123875849470cd" group-title="RADIO", AMOR SOLO POP
+#EXTINF: -1 tvg-chno="829" tvg-logo="https://i.iheart.com/v3/re/new_assets/6230ca02be123875849470cd" group-title="RADIO", AMOR SOLO POP
 https://18543.live.streamtheworld.com/ACIR03_S01AAC/HLS/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="824" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png" group-title="RADIO", LA MEJOR FM CDMX
+#EXTINF: -1 tvg-chno="830" tvg-logo="https://lamejor.com.mx/wp-content/themes/la-mejor-theme/dist/images/logo.png" group-title="RADIO", LA MEJOR FM CDMX
 https://26603.live.streamtheworld.com/XERCFM.mp3
 
-#EXTINF: -1 tvg-chno="825" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png" group-title="RADIO", LOS 40 FM CDMX
+#EXTINF: -1 tvg-chno="831" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1280px-Los_40.svg.png" group-title="RADIO", LOS 40 FM CDMX
 https://18363.live.streamtheworld.com/LOS40_MEXICOAAC.aac
 
 
 🌲🌱NATURALEZA☘️🌴
 
-#EXTINF: -1 tvg-chno="826" tvg-logo="https://yt3.googleusercontent.com/bC9HC5Esmlp6_k0ZqrVyj-wNek5qnMYx-XX0RlWDYSwuS8bA70Evtfg79EA_C6uVTB4JlPW7=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", WILD EARTH
+#EXTINF: -1 tvg-chno="840" tvg-logo="https://yt3.googleusercontent.com/bC9HC5Esmlp6_k0ZqrVyj-wNek5qnMYx-XX0RlWDYSwuS8bA70Evtfg79EA_C6uVTB4JlPW7=s900-c-k-c0x00ffffff-no-rj" group-title="NATURALEZA", WILD EARTH
 https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8
 
-#EXTINF: -1 tvg-chno="829" tvg-logo="https://image.roku.com/developer_channels/prod/c155308e39695c107020d7412ad9da46d4dd5f0e603c1d44a0c0c15a71d4061c.png" group-title="NATURALEZA", DEMAND AFRICA
+#EXTINF: -1 tvg-chno="841" tvg-logo="https://image.roku.com/developer_channels/prod/c155308e39695c107020d7412ad9da46d4dd5f0e603c1d44a0c0c15a71d4061c.png" group-title="NATURALEZA", DEMAND AFRICA
 https://demandafrica-oando.amagi.tv/playlistR1080p.m3u8
 
 
@@ -2807,20 +2807,20 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w1171844143.m
 
 😂ANIME🥰
 
-#EXTINF: -1 tvg-chno="1" tvg-logo="https://cdn.uc.assets.prezly.com/d912952e-742b-4e87-a382-90a935842806/" group-title="ANIME",  ANIME ONEGAI
+#EXTINF: -1 tvg-chno="865" tvg-logo="https://cdn.uc.assets.prezly.com/d912952e-742b-4e87-a382-90a935842806/" group-title="ANIME",  ANIME ONEGAI
 https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe0743fa.sdp/playlist.m3u8
 
 ❤️A LA CARTA❤️
 
 
-#EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", FAHION TV
+#EXTINF:-1 tvg-chno="900" group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", FAHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
-#EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", JENNY EN VIVO
+#EXTINF:-1 tvg-chno="901" group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", JENNY EN VIVO
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 
-#EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", PLAYBOY TV
+#EXTINF:-1 tvg-chno="902" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", PLAYBOY TV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
 
-#EXTINF:-1 group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", VENUS
+#EXTINF:-1 tvg-chno="903" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", VENUS
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
