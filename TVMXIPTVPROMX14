@@ -168,7 +168,7 @@ https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-chno="120" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425558-8c.png" group-title="TV NACIONAL",TV UNAM SD
-https://live5-ott.izzigo.tv/out/u/dash/RDF_MTY_TV-UNAM-SD/default.mpd
+https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/TV-UNAM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
@@ -224,7 +224,7 @@ https://live1-ott.izzigo.tv/out/u/dash/MILENIO-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=ooiooiooiiioiioioi
+#KODIPROP:inputstream.adaptive.license_key=https://www.vibetv.mx/wp-content/uploads/2020/07/vibe_logo_2x_544x180-300x99.png
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -293,7 +293,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="TV NACIONAL",ADN 40 SD
+#EXTINF:-1 tvg-chno="140" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="TV NACIONAL",ADN 40 
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/ADN-40-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -629,14 +629,14 @@ https://live3-ott.izzigo.tv/out/u/dash/TELEMUNDO-HD/default.mpd
 #EXTINF: -1 tvg-chno="279" tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/discover_menu_icon/public/2022-11/menu_icon_12130.png?itok=JZwuWYcJ" group-title="NOVELAS", SONY NOVELAS 
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF: -1 tvg-chno="280" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Coraz%C3%B3n_%28TV_channel%29_logo_2021.png" group-title="NOVELAS", CORAZON
+#EXTINF: -1 tvg-chno="280" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1083007-8c.png" group-title="NOVELAS", CORAZON
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
 
-#EXTINF: -1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TV_Azteca_Mundo_logo.svg/1200px-TV_Azteca_Mundo_logo.svg.png" group-title="ENTRETENIMIENTO", MUNDO
+#EXTINF: -1 tvg-chno="281" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="ENTRETENIMIENTO", AZTECA INTERNACIONAL 
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-chno="285"  group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CINEMA
+#EXTINF:-1 tvg-chno="285"  group-title="ENTRETENIMIENTO" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1082935-8c.png", CINEMA
 http://177.53.153.21:8001/play/a03h/index.m3u8
 
 
@@ -1436,10 +1436,10 @@ http://live5-ott.izzigo.tv/out/u/dash/TCM-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 tvg-chno="495" group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CLARO CINEMA
+#EXTINF:-1 tvg-chno="495" group-title="PELICULAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs3WxcOCJGn4v2NZcVFDan_Jx6Jy6Tyq4CBw&usqp=CAU", CLARO CINEMA
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROCINEMA)/index.m3u8
 
-#EXTINF:-1 tvg-chno="496" group-title="NIÑOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CANAL CLARO
+#EXTINF:-1 tvg-chno="496" group-title="NIÑOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png", CANAL CLARO
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CANALCLAROHD)/index.m3u8
 
 
@@ -1469,7 +1469,7 @@ https://dxmwlv9y37d4r.cloudfront.net/PLATINO_HD/master.m3u8
 https://dxmwlv9y37d4r.cloudfront.net/PLATINO2/master.m3u8
 
 
-#EXTINF:-1 tvg-chno="504" group-title="PELICULAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", DHE
+#EXTINF:-1 tvg-chno="504" group-title="PELICULAS" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1016572-8c.png", DHE
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DHEHD)/index.m3u8
 
 
@@ -1573,7 +1573,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
-#EXTINF:-1 tvg-chno="527" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", ESPN4
+#EXTINF:-1 tvg-chno="527" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1024px-ESPN_4_logo.svg.png", ESPN4
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
 
 
@@ -1693,7 +1693,7 @@ https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #EXTINF:-1 tvg-chno="598" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/903290-8c.png", CLARO SPORTS
 https://d225juk6ahds7e.cloudfront.net/out/v1/977f6b1ef10c4011aecc2103c06966ac/index_1.m3u8
 
-#EXTINF:-1 tvg-chno="599" group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", TRAVELXP
+#EXTINF:-1 tvg-chno="599" group-title="DEPORTES" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425265-8c.png", TRAVELXP
 http://177.53.153.21:8001/play/a02m/index.m3u8
 
 
@@ -1844,13 +1844,13 @@ https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #EXTINF:-1 tvg-chno="647" group-title="NIÑOS" tvg-logo="https://www.megacable.com.mx/images/canales/1560_meganoticias-mx-hd_imagen_1638377401.png", MEGANOTICIAS MX
 https://dxmwlv9y37d4r.cloudfront.net/MN_MX_HD/master.m3u8
 
-#EXTINF:-1 tvg-chno="649" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CANAL 4 GUADALAJARA
+#EXTINF:-1 tvg-chno="649" group-title="NOTICIAS" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-4-Televisa-Guadalajara-en-vivo-Online.png?fit=1920%2C1080&ssl=1", CANAL 4 GUADALAJARA
 https://bit.ly/Iptvpromx4_channel1_mx
 
-#EXTINF:-1 tvg-chno="651" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CANAL 8 MONTERREY 
+#EXTINF:-1 tvg-chno="651" group-title="NOTICIAS" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/Televisa-Monterrey-en-vivo-Online.png", CANAL 8 MONTERREY 
 https://bit.ly/Iptvpromx8_channel1_mx
 
-#EXTINF:-1 tvg-chno="654" group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CDN
+#EXTINF:-1 tvg-chno="654" group-title="NOTICIAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2R8YQNWB7OrGq1ylxB_eOrSFZyhXHCggPg&usqp=CAU", CDN
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CDNHD)/index.m3u8
 
 
@@ -2143,11 +2143,11 @@ https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #EXTINF: -1 tvg-chno="740" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Exa_TV_logo.svg/1200px-Exa_TV_logo.svg.png" group-title="MUSICA", EXA TV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
 
-#EXTINF:-1 tvg-chno="742" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CONCERT CHANNEL
+#EXTINF:-1 tvg-chno="742" group-title="MUSICA" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/bc/Gallery_1157_7_147957.png/revision/latest?cb=20150406181433&path-prefix=es", CONCERT CHANNEL
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CONCERTCHANNELHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="743" group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", CLARO MUSICA
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN4HD)/index.m3u8
+#EXTINF:-1 tvg-chno="743" group-title="MUSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNO6kmCnxwwP8KO6AmMNjkDK86QcSKlRNO3w&usqp=CAU", CLARO MUSICA
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CLAROMUSICA)/index.m3u8
 
 
 #EXTINF: -1 tvg-chno="744" tvg-logo="https://www.megacable.com.mx/images/canales/704_video-rola.png" group-title="MUSICA", VIDEO ROLA
@@ -2813,14 +2813,14 @@ https://live.animeonegai.com/desktop94pq6o1cvu57ep6/076456b0e6f138491ee36b3abe07
 ❤️A LA CARTA❤️
 
 
-#EXTINF:-1 tvg-chno="900" group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", FAHION TV
+#EXTINF:-1 tvg-chno="900" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png", FAHION TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
 
-#EXTINF:-1 tvg-chno="901" group-title="A LA CARTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqkM5LvPgod8fyItCmf0254w5QhgqhlLRWQ&usqp=CAU", JENNY EN VIVO
+#EXTINF:-1 tvg-chno="901" group-title="A LA CARTA" tvg-logo="https://image.roku.com/channels/images/9d6a2f942b9c45f3b905834fe3148887-hd.jpg", MIAMI TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
 
-#EXTINF:-1 tvg-chno="902" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", PLAYBOY TV
+#EXTINF:-1 tvg-chno="902" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/2560px-Play_Boy_TV_logo.svg.png", PLAYBOY TV
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(PLAYBOYHD)/index.m3u8
 
-#EXTINF:-1 tvg-chno="903" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png", VENUS
+#EXTINF:-1 tvg-chno="903" group-title="A LA CARTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/2560px-Canal_Venus_logo.svg.png", VENUS
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(VENUS)/index.m3u8
