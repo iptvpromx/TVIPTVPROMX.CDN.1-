@@ -7,6 +7,6 @@
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="101" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",AZTECA UNO 
-https://retrogrid.izzigo.tv/out/u/startover/dash/AZTECA-1-HD/default.mpd?start=20231020T143000Z&end=20231021T150600Z
+https://retrogrid.izzigo.tv/out/u/startover/dash/FORO-TV-HD/default.mpd?start=20231020T143000Z&end=20231021T150600Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
