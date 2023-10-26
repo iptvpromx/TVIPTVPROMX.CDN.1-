@@ -263,7 +263,7 @@ https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="133" tvg-logo="https://cdn.shopify.com/s/files/1/0157/7084/5232/files/cvshoping-outlet-logo-2_180x.png?v=1613780572" group-title="TV NACIONAL",CV SHOPPING OUTLET
+#EXTINF:-1 tvg-chno="133" timeshift="https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd" tvg-logo="https://cdn.shopify.com/s/files/1/0157/7084/5232/files/cvshoping-outlet-logo-2_180x.png?v=1613780572" group-title="TV NACIONAL",CV SHOPPING OUTLET
 https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -274,7 +274,7 @@ https://live5-ott.izzigo.tv/out/u/dash/CV-SHOPPING-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="135" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/421932-8c.png" group-title="TV NACIONAL", INGENIO TV SD
+#EXTINF:-1 tvg-chno="135" timeshift="https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/421932-8c.png" group-title="TV NACIONAL", INGENIO TV SD
 https://live5-ott.izzigo.tv/out/u/dash/INGENIO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -291,7 +291,7 @@ https://freetv.stream.olympusatmedia.com:443/index1080p/partial.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="140" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="TV NACIONAL",ADN 40 
+#EXTINF:-1 tvg-chno="140" timeshift="https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/ADN-40-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="TV NACIONAL",ADN 40 
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/ADN-40-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
