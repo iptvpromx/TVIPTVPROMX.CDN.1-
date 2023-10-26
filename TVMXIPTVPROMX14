@@ -6,7 +6,7 @@
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="101" timeshift="1" timeshift-source="https://retrogrid.izzigo.tv/out/u/startover/dash/AZTECA-1-HD/default.mpd?start=20231020T143000Z&end=20231021T150600Z" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",AZTECA UNO 
+#EXTINF:-1 tvg-chno="101" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/417298-8c.png" group-title="TV NACIONAL",AZTECA UNO 
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -17,7 +17,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-1-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="102" timeshift="1" timeshift-source="https://retrogrid.izzigo.tv/out/u/startover/dash/LAS-ESTRELLAS-HD/default.mpd?start=20231020T143000Z&end=20231021T150600Z" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="TV NACIONAL",LAS ESTRELLAS 
+#EXTINF:-1 tvg-chno="102" timeshift="https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/486912-8c.png" group-title="TV NACIONAL",LAS ESTRELLAS 
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -28,7 +28,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="103" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" group-title="TV NACIONAL",IMAGEN TV
+#EXTINF:-1 tvg-chno="103" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/499014-8c.png" timeshift="https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd" group-title="TV NACIONAL",IMAGEN TV
 https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,7 +39,7 @@ https://live3-ott.izzigo.tv/out/u/dash/IMAGEN-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="104" timeshift="1" timeshift-source="https://retrogrid.izzigo.tv/out/u/startover/dash/FORO-TV-HD/default.mpd?start=20231019T143000Z&end=20231020T150600Z" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="TV NACIONAL",FORO TV
+#EXTINF:-1 tvg-chno="104" timeshift="https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/420174-8c.png" group-title="TV NACIONAL",FORO TV
 https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,7 +50,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FORO-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="105" timeshift="1" timeshift-source="https://retrogrid.izzigo.tv/out/u/startover/dash/CANAL-5-HD/default.mpd?start=20231019T143000Z&end=20231020T150600Z" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="TV NACIONAL",CANAL 5
+#EXTINF:-1 tvg-chno="105" timeshift="https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/415117-8c.png" group-title="TV NACIONAL",CANAL 5
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -61,7 +61,7 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="106" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/820363-8c.png" group-title="TV NACIONAL",CANAL 6 CDMX
+#EXTINF:-1 tvg-chno="106" timeshift="https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/820363-8c.png" group-title="TV NACIONAL",CANAL 6 CDMX
 https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -72,7 +72,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MULTIMEDIOS-PLUS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="107" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="TV NACIONAL",AZTECA 7
+#EXTINF:-1 tvg-chno="107" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/612649-8c.png" group-title="TV NACIONAL",AZTECA 7
 https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -83,7 +83,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="108" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004236-8c.png" group-title="TV NACIONAL",HERALDO TV
+#EXTINF:-1 tvg-chno="108" timeshift="http://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1004236-8c.png" group-title="TV NACIONAL",HERALDO TV
 http://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -94,7 +94,7 @@ http://live2-ott.izzigo.tv/out/u/dash/HERALDO-TV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="109" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL",NUEVE
+#EXTINF:-1 tvg-chno="109" timeshift="https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416973-8c.png" group-title="TV NACIONAL",NUEVE
 https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -105,7 +105,7 @@ https://live1-ott.izzigo.tv/out/u/dash/CANAL-9-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="110" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="TV NACIONAL", A MAS MONTERREY SD
+#EXTINF:-1 tvg-chno="110" timeshift="https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="TV NACIONAL", A MAS MONTERREY SD
 https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -116,7 +116,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RDF-MTY-A-plus-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="111" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="TV NACIONAL",CANAL ONCE
+#EXTINF:-1 tvg-chno="111" timeshif="https://live4-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="TV NACIONAL",CANAL ONCE
 https://live4-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -127,7 +127,7 @@ https://live4-ott.izzigo.tv/out/u/dash/ONCE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="112" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png" group-title="TV NACIONAL",CANAL 11.2
+#EXTINF:-1 tvg-chno="112" timeshift="https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518647-8c.png" group-title="TV NACIONAL",CANAL 11.2
 https://live3-ott.izzigo.tv/out/u/dash/ONCE-NINAS-Y-NINOS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -142,7 +142,7 @@ https://dbdfj5y8nz2u4.cloudfront.net/c13chiapas/d0dbe915091d400bd8ee7f27f0791303
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="114" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="TV NACIONAL",CANAL 14
+#EXTINF:-1 tvg-chno="114" timeshift="http://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CANAL-14-HD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="TV NACIONAL",CANAL 14
 http://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/CANAL-14-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
