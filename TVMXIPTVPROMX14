@@ -156,7 +156,7 @@ https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="118" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUV6dNpTUGDBtBWfsuiWOnR0gVgLvdQpDpg&usqp=CAU" group-title="TV NACIONAL",QUIERO TV
+#EXTINF:-1 tvg-chno="118" timeshift="https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUV6dNpTUGDBtBWfsuiWOnR0gVgLvdQpDpg&usqp=CAU" group-title="TV NACIONAL",QUIERO TV
 https://live3-ott.izzigo.tv/out/u/dash/OCHO-TV-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
