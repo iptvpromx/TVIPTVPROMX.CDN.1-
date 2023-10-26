@@ -1506,7 +1506,7 @@ https://live1-ott.izzigo.tv/out/u/dash/GOLF-CHANNEL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="515" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425370-8c.png" group-title="DEPORTES",NFL
+#EXTINF:-1 tvg-chno="515" timeshift="http://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425370-8c.png" group-title="DEPORTES",NFL
 http://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1517,7 +1517,7 @@ http://live1-ott.izzigo.tv/out/u/dash/NFL-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="517" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png" group-title="DEPORTES", TUDN
+#EXTINF:-1 tvg-chno="517" timeshift="http://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416657-8c.png" group-title="DEPORTES", TUDN
 http://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1537,7 +1537,7 @@ https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/in
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="523" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="DEPORTES",ESPN
+#EXTINF:-1 tvg-chno="523" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554661-8c.png" group-title="DEPORTES",ESPN
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1548,7 +1548,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="524" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png" group-title="DEPORTES",ESPN 2
+#EXTINF:-1 tvg-chno="524" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/554663-8c.png" group-title="DEPORTES",ESPN 2
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1559,7 +1559,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="525" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png" group-title="DEPORTES",ESPN 3
+#EXTINF:-1 tvg-chno="525" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425374-8c.png" group-title="DEPORTES",ESPN 3
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1570,7 +1570,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="526" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png" group-title="DEPORTES",ESPN EXTRA
+#EXTINF:-1 tvg-chno="526" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1046022-8c.png" group-title="DEPORTES",ESPN EXTRA
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1585,7 +1585,7 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESP
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="529" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425376-8c.png" group-title="DEPORTES",FOX SPORTS 
+#EXTINF:-1 tvg-chno="529" timeshift="http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425376-8c.png" group-title="DEPORTES",FOX SPORTS 
 http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1596,7 +1596,7 @@ http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="530" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425378-8c.png" group-title="DEPORTES",FOX SPORTS 2
+#EXTINF:-1 tvg-chno="530" timeshift="http://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425378-8c.png" group-title="DEPORTES",FOX SPORTS 2
 http://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1607,7 +1607,7 @@ http://live4-ott.izzigo.tv/out/u/dash/FOX-SPORTS-2-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="531" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png" group-title="DEPORTES", FOX SPORTS 3
+#EXTINF:-1 tvg-chno="531" timeshift="http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425386-8c.png" group-title="DEPORTES", FOX SPORTS 3
 http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1619,7 +1619,7 @@ http://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="532" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLc3lof7LJbulM5TVkJuXEXlzy6N6wBn-pVA&usqp=CAU" group-title="TV NACIONAL",FOX SPORTS PREMIUM 
+#EXTINF:-1 tvg-chno="532" timeshift="https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLc3lof7LJbulM5TVkJuXEXlzy6N6wBn-pVA&usqp=CAU" group-title="TV NACIONAL",FOX SPORTS PREMIUM 
 https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1631,7 +1631,7 @@ https://live1-ott.izzigo.tv/out/u/dash/FOX-SPORTS-PREMIUM-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="538" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png" group-title="DEPORTES",PX SPORTS
+#EXTINF:-1 tvg-chno="538" timeshift="https://live4-ott.izzigo.tv/out/u/dash/PX-SPORTS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425380-8c.png" group-title="DEPORTES",PX SPORTS
 https://live4-ott.izzigo.tv/out/u/dash/PX-SPORTS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1642,7 +1642,7 @@ https://live4-ott.izzigo.tv/out/u/dash/PX-SPORTS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="540" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png" group-title="DEPORTES", ADRENALINA SPORTS NETWORKS
+#EXTINF:-1 tvg-chno="540" timeshift="https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531196-8c.png" group-title="DEPORTES", ADRENALINA SPORTS NETWORKS
 https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1653,7 +1653,7 @@ https://live1-ott.izzigo.tv/out/u/dash/ADRENALINA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="544" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",AFIZZIONADOS
+#EXTINF:-1 tvg-chno="544" timeshift="http://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",AFIZZIONADOS
 http://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1665,7 +1665,7 @@ http://live1-ott.izzigo.tv/out/u/dash/AFIZZIONADOS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="546" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES",REAL MADRID TV
+#EXTINF:-1 tvg-chno="546" timeshift="https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd" tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="DEPORTES",REAL MADRID TV
 https://live4-ott.izzigo.tv/out/u/dash/REAL-MADRID-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1687,7 +1687,7 @@ https://bit.ly/3LOW2YE
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="585" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
+#EXTINF:-1 tvg-chno="585" timeshift="https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" group-title="DEPORTES",NBA TV
 https://live2-ott.izzigo.tv/out/u/dash/NBA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1709,7 +1709,7 @@ http://177.53.153.21:8001/play/a02m/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="600" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",NOTICIAS
+#EXTINF:-1 tvg-chno="600" timeshift="https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Logo_Izzi.svg/1200px-Logo_Izzi.svg.png" group-title="MOSAICO",NOTICIAS
 https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1720,7 +1720,7 @@ https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/in
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="608" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425390-8c.png" group-title="NOTICIAS",CNN
+#EXTINF:-1 tvg-chno="608" timeshift="http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425390-8c.png" group-title="NOTICIAS",CNN
 http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1731,7 +1731,7 @@ http://live4-ott.izzigo.tv/out/u/dash/CNN-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="609" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png" group-title="NOTICIAS",CNN INTERNACIONAL 
+#EXTINF:-1 tvg-chno="609" timeshift="https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png" group-title="NOTICIAS",CNN INTERNACIONAL 
 https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1742,7 +1742,7 @@ https://live4-ott.izzigo.tv/out/u/dash/CNNI-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="610" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png" group-title="NOTICIAS",CNN EN ESPAÑOL
+#EXTINF:-1 tvg-chno="610" timeshift="https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425402-8c.png" group-title="NOTICIAS",CNN EN ESPAÑOL
 https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1753,7 +1753,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CNN-EN-ESPANOL-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="612" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425392-8c.png" group-title="NOTICIAS",FOX NEWS
+#EXTINF:-1 tvg-chno="612" timeshift="https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425392-8c.png" group-title="NOTICIAS",FOX NEWS
 https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1764,7 +1764,7 @@ https://live2-ott.izzigo.tv/out/u/dash/FOX-NEWS-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="616" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png" group-title="NOTICIAS",RT
+#EXTINF:-1 tvg-chno="616" timeshift="https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425394-8c.png" group-title="NOTICIAS",RT
 https://live2-ott.izzigo.tv/out/u/dash/RT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1778,7 +1778,7 @@ https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="628" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416401-8c.png" group-title="NOTICIAS", BLOOMBERG 
+#EXTINF:-1 tvg-chno="628" timeshift="https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416401-8c.png" group-title="NOTICIAS", BLOOMBERG 
 https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1789,7 +1789,7 @@ https://live1-ott.izzigo.tv/out/u/dash/EL-FINANCIERO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="630" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png" group-title="NOTICIAS",BBC WORLD NEWS
+#EXTINF:-1 tvg-chno="630" timeshift="https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1072561-8c.png" group-title="NOTICIAS",BBC WORLD NEWS
 https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1800,7 +1800,7 @@ https://live3-ott.izzigo.tv/out/u/dash/BBC-WORLD-NEWS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="635" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416693-8c.png" group-title="NOTICIAS",ALJAZEERA
+#EXTINF:-1 tvg-chno="635" timeshift="https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416693-8c.png" group-title="NOTICIAS",ALJAZEERA
 https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1811,7 +1811,7 @@ https://live4-ott.izzigo.tv/out/u/dash/AL-JAZEERA-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="638" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png" group-title="NOTICIAS",TELEFORMULA
+#EXTINF:-1 tvg-chno="638" timeshift="https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416421-8c.png" group-title="NOTICIAS",TELEFORMULA
 https://live4-ott.izzigo.tv/out/u/dash/TELEFORMULA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1826,7 +1826,7 @@ https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="644" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png" group-title="NOTICIAS",CNBC
+#EXTINF:-1 tvg-chno="644" timeshift="https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/800px-CNBC_logo.svg.png" group-title="NOTICIAS",CNBC
 https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1838,7 +1838,7 @@ https://live3-ott.izzigo.tv/out/u/dash/CNBC-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="645" tvg-logo="https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL",EURONEWS
+#EXTINF:-1 tvg-chno="645" timeshift="https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd" tvg-logo="https://yt3.googleusercontent.com/qFkd6lZgU09CvQP-6pJggpIlXwW4h0TLM8DvtHGTsOteRWmFYstP8OyypJvtOekV2bHXikxBRg=s900-c-k-c0x00ffffff-no-rj" group-title="TV NACIONAL",EURONEWS
 https://live3-ott.izzigo.tv/out/u/dash/EURONEWS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1864,7 +1864,7 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(CDN
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="659" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425410-8c.png" group-title="INTERNACIONAL",HLN
+#EXTINF:-1 tvg-chno="659" timeshift="https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd"tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425410-8c.png" group-title="INTERNACIONAL",HLN
 https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1875,7 +1875,7 @@ https://live3-ott.izzigo.tv/out/u/dash/HLN-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="662" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425412-8c.png" group-title="INTERNACIONAL",ANTENA 3
+#EXTINF:-1 tvg-chno="662" timeshift="http://live5-ott.izzigo.tv/out/u/dash/ANTENA-3-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425412-8c.png" group-title="INTERNACIONAL",ANTENA 3
 http://live5-ott.izzigo.tv/out/u/dash/ANTENA-3-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1886,7 +1886,7 @@ http://live5-ott.izzigo.tv/out/u/dash/ANTENA-3-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="668" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425414-8c.png" group-title="INTERNACIONAL", TV GALICIA
+#EXTINF:-1 tvg-chno="668" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425414-8c.png" group-title="INTERNACIONAL", TV GALICIA
 https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1897,7 +1897,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV-GALICIA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="671" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW
+#EXTINF:-1 tvg-chno="671" timeshift="http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW
 http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1908,7 +1908,7 @@ http://live5-ott.izzigo.tv/out/u/dash/DW-AMERIKA-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="677" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW EN ESPAÑOL 
+#EXTINF:-1 tvg-chno="677" timeshift="https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="INTERNACIONAL",DW EN ESPAÑOL 
 https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1919,7 +1919,7 @@ https://live5-ott.izzigo.tv/out/u/dash/DW-ESPANOL-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="684" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png" group-title="INTERNACIONAL",ATRESSERIES
+#EXTINF:-1 tvg-chno="684" timeshift="https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425423-8c.png" group-title="INTERNACIONAL",ATRESSERIES
 https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1930,7 +1930,7 @@ https://live2-ott.izzigo.tv/out/u/dash/ATRES-SERIES-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="689" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425429-8c.png" group-title="INTERNACIONAL",RAI ITALIA
+#EXTINF:-1 tvg-chno="689" timeshift="https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425429-8c.png" group-title="INTERNACIONAL",RAI ITALIA
 https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1941,7 +1941,7 @@ https://live5-ott.izzigo.tv/out/u/dash/RAI-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="691" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="INTERNACIONAL",STAR TVE
+#EXTINF:-1 tvg-chno="691" timeshift="http://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425427-8c.png" group-title="INTERNACIONAL",STAR TVE
 http://live2-ott.izzigo.tv/out/u/dash/STAR-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1955,7 +1955,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/arirang_1ch.smil/chunkli
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="695" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/800px-Logo_TV5_Monde_-_2021.svg.png" group-title="INTERNACIONAL",TV5 MODE LATIN AMERICA SD
+#EXTINF:-1 tvg-chno="695" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/800px-Logo_TV5_Monde_-_2021.svg.png" group-title="INTERNACIONAL",TV5 MODE LATIN AMERICA SD
 https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1967,7 +1967,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV5-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="696" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425441-8c.png" group-title="INTERNACIONAL",TELEFE
+#EXTINF:-1 tvg-chno="696" timeshift="https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425441-8c.png" group-title="INTERNACIONAL",TELEFE
 https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1978,7 +1978,7 @@ https://live1-ott.izzigo.tv/out/u/dash/TELEFE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="697" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/907504-8c.png" group-title="INTERNACIONAL",NHK WORLD
+#EXTINF:-1 tvg-chno="697" timeshift="https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/907504-8c.png" group-title="INTERNACIONAL",NHK WORLD
 https://live2-ott.izzigo.tv/out/u/dash/NHK-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1992,7 +1992,7 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="699" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png" group-title="INTERNACIONAL",TV GLOBO
+#EXTINF:-1 tvg-chno="699" timeshift="https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/TV_Globo_Logo_2021.png" group-title="INTERNACIONAL",TV GLOBO
 https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2005,7 +2005,7 @@ https://live3-ott.izzigo.tv/out/u/dash/TV-GLOBO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="701" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" group-title="MUSICA",MTV LIVE
+#EXTINF:-1 tvg-chno="701" timeshift="https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425451-8c.png" group-title="MUSICA",MTV LIVE
 https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2016,7 +2016,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-LIVE-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="703" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png" group-title="MUSICA",MTV HITS
+#EXTINF:-1 tvg-chno="703" timeshift="https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518653-8c.png" group-title="MUSICA",MTV HITS
 https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2027,7 +2027,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-HITS-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="705" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="MUSICA",MTV
+#EXTINF:-1 tvg-chno="705" timeshift="http://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425459-8c.png" group-title="MUSICA",MTV
 http://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2038,7 +2038,7 @@ http://live2-ott.izzigo.tv/out/u/dash/MTV-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="710" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png" group-title="MUSICA",MTV "00"
+#EXTINF:-1 tvg-chno="710" timeshift="https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/896490-8c.png" group-title="MUSICA",MTV "00"
 https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2049,7 +2049,7 @@ https://live3-ott.izzigo.tv/out/u/dash/VH1-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="725" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="MUSICA",MTV "80"
+#EXTINF:-1 tvg-chno="725" timeshift="http://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/527066-8c.png" group-title="MUSICA",MTV "80"
 http://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2060,7 +2060,7 @@ http://live4-ott.izzigo.tv/out/u/dash/VH1-CLASSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="727" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518655-8c.png" group-title="MUSICA",CLUB MTV
+#EXTINF:-1 tvg-chno="727" timeshift="https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518655-8c.png" group-title="MUSICA",CLUB MTV
 https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2071,7 +2071,7 @@ https://live4-ott.izzigo.tv/out/u/dash/MTV-DANCE-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="729" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png" group-title="MUSICA",TELEHIT SD
+#EXTINF:-1 tvg-chno="729" timeshift="http://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522528-8c.png" group-title="MUSICA",TELEHIT SD
 http://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2082,7 +2082,7 @@ http://live5-ott.izzigo.tv/out/u/dash/TELEHIT-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="732" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png" group-title="MUSICA", TELEHIT MUSICA PLUS
+#EXTINF:-1 tvg-chno="732" timeshift="https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518700-8c.png" group-title="MUSICA", TELEHIT MUSICA PLUS
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2093,7 +2093,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="733" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png" group-title="MUSICA",TELEHIT URBANO
+#EXTINF:-1 tvg-chno="733" timeshift="https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518698-8c.png" group-title="MUSICA",TELEHIT URBANO
 https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2104,7 +2104,7 @@ https://live2-ott.izzigo.tv/out/u/dash/TELEHIT-URBANO-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="734" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png" group-title="MUSICA", BANDAMAX 
+#EXTINF:-1 tvg-chno="734" timeshift="https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/522531-8c.png" group-title="MUSICA", BANDAMAX 
 https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2115,7 +2115,7 @@ https://live2-ott.izzigo.tv/out/u/dash/BANDAMAX-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="736" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425469-8c.png" group-title="MUSICA",MUCH MUSIC
+#EXTINF:-1 tvg-chno="736" timeshift="https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425469-8c.png" group-title="MUSICA",MUCH MUSIC
 https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2126,7 +2126,7 @@ https://live3-ott.izzigo.tv/out/u/dash/MUCH-MUSIC-SD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="738" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA",TELERITMO
+#EXTINF:-1 tvg-chno="738" timeshift="http://live1-ott.izzigo.tv/out/u/dash/TELERITMO-HD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="MUSICA",TELERITMO
 http://live1-ott.izzigo.tv/out/u/dash/TELERITMO-HD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2137,7 +2137,7 @@ http://live1-ott.izzigo.tv/out/u/dash/TELERITMO-HD/default.mpd
 #EXTVLCOPT:http-referrer=https://www.izzigo.tv/ 
 #EXTVLCOPT:network-caching= 1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-chno="739" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="MUSICA",NICK MUSIC
+#EXTINF:-1 tvg-chno="739" timeshift="https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/515940-8c.png" group-title="MUSICA",NICK MUSIC
 https://live4-ott.izzigo.tv/out/u/dash/NICKTOONS-SD/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
